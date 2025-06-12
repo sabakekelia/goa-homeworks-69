@@ -1,0 +1,7 @@
+number= input("number: ") 
+secretNum=8
+
+if number == secretNum:
+    print("correct")
+else: number != secretNum
+print("incorrect") 
