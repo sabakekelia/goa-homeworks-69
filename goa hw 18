@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>this is website with what i learnt</h1>
+<p>this website</p>
+<button>learn more</button>
+<a href="https://www.youtube.com/watch?v=k1R7cdbe0eg">goa video</a>
+<input type="color"
+<select id="food1" name="foods"
+<option value="fav">spagetti</option>
+<option value="hate">tolma</option> 
+</body>
+</html> 
+
+<!--მე ამ ვებსაიტზე გამოვიყინე h1 ეს გამოიყენება ვებსაიტის სათაურისთვის p არის პარაგრაფი და გამოიყენება ტექსისთვის შემდეგ გამოვიყენე ღილაკი და დავამატე ლინკი გოას ერთერთ ვიდეოზე -->
