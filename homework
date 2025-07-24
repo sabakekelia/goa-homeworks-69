@@ -1,0 +1,8 @@
+<!-- style ატრიბუტი გამოიყენება css-ის დამატებისთის -->
+
+<p style="color: red;">this is red</p>
+<p style="width:  24px;">hai</p>
+
+<h1 style="text-align: center;">haaaaai</h1>
+
+<h2  style="color: cyan;" style="18px" style="background: cyan;" style="text-align: right0;">idk lol</h2>
