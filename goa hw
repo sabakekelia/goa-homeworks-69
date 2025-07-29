@@ -1,0 +1,8 @@
+text="nebismieri sityva"
+print(text.upper()) 
+
+list=[1, 2, 3,]
+print(list) 
+ 
+newList=[2, 3, 1,]
+print(newList.find(2))
