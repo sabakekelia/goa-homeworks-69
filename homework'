@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+table{
+
+    color: gray;
+    border-bottom: 2px solid;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    border-left: 2px solid;
+    background-color: rgb(49, 203, 255);
+
+}
+th,td{
+
+    border: 1px
+    
+}
+
+tr :nth-child(even){
+
+    background-color: white;
+
+}
+
+tr :nth-child(odd){
+
+    background-color: gray;
+}
+
+
+
+
+
+    </style>
+</body>
+</html>
+
+
+<table>
+
+<tr>
+    <th>First Names</th>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Job Title</th>
+    <th>Twitter</th>
+</tr>
+
+<tr>
+<td>James</td>
+<td></td>
+<td>tenesy</td>
+<td>zoa</td>
+<td>Sarabi</td>
+</tr>
+
+
+
+ 
+    
+
+
+
+
